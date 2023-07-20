@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.simple-todo {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ff8542;
+  background-size: cover;
+  height: 100vh;
+  padding: 50px;
+}
+
+.main-heading {
+  text-align: center;
+  color: #ff8542;
+}
+
+.todos-list {
+  border-radius: 8px;
+  margin-top: 20px;
+  background-color: white;
+  padding: 30px;
+  max-height: 90vh;
+}
